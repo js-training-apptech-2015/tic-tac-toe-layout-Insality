@@ -4,6 +4,12 @@ Using bootstrap, create simple game layout like this:
 
 ![](http://i.imgur.com/fY4Kmvl.png)
 
+# My solution:
+
+<p align="center">
+  <img src="http://i.imgur.com/kVREI7d.png" alt="Insality Tic Tac Toe Screen"/>
+</p>
+
 
 It should contain:
 
